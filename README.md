@@ -34,23 +34,23 @@ JavaScript – Interactivity and dynamic behavior
 
 Libraries – External libraries used for enhanced UI (stored in lib/)
 
-PAMMI-DA-DHABA/
-│
-├── css/            # Compiled CSS files
-├── scss/           # SCSS source files
-├── js/             # JavaScript files
-├── img/            # Images and assets
-├── lib/            # External libraries
-│
-├── index.html      # Home page
-├── about.html      # About page
-├── menu.html       # Menu page
-├── service.html    # Services page
-├── booking.html    # Booking page
-├── team.html       # Team page
-├── testimonial.html# Testimonials page
-├── contact.html    # Contact page
-├── README.md       # Project documentation
+PAMMI-DA-DHABA
+
+
+├── css            
+├── scss        
+├── js             
+├── img          
+├── lib        
+├── index.html      
+├── about.html   
+├── menu.html       
+├── service.html  
+├── booking.html  
+├── team.html     
+├── testimonial.html
+├── contact.html  
+├── README.md       
 
 
 🚀 How to Run the Project
