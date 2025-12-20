@@ -1,41 +1,97 @@
-# 🍽️ PAMMI DA DHABA
+🍽️ PAMMI DA DHABA
 
-**PAMMI DA DHABA** is a traditional Punjabi dhaba–themed website that celebrates the rich flavors, warmth, and culture of Punjab.  
-This project showcases authentic Punjabi food with a simple, attractive, and user-friendly design.
+PAMMI DA DHABA is a modern, responsive restaurant website designed to showcase the authentic taste and warmth of Punjabi dhaba culture. The website provides a smooth user experience with clear navigation, attractive visuals, and well-structured content for customers to explore the menu, services, team, and contact details.
 
----
+This project is built using HTML, CSS, JavaScript, and SCSS, focusing on clean design and usability.
 
-## 📖 About the Project
+🌟 Features
 
-PAMMI DA DHABA is inspired by the roadside dhabas of Punjab, known for their delicious food and desi vibes.  
-The website is built to represent a Punjabi restaurant online, highlighting menu items, dhaba ambiance, and easy navigation.
+🏠 Home Page – Welcoming landing page with dhaba theme
 
-This project is ideal for beginners learning front-end web development.
+📖 About Us – Story and values of PAMMI DA DHABA
 
----
+🍛 Menu Section – Display of food items and specialties
 
-## 🚀 Features
+🧑‍🤝‍🧑 Our Team – Introduction to the people behind the dhaba
 
-- 🥘 Authentic Punjabi dhaba theme  
-- 🎨 Clean and attractive UI  
-- 📱 Fully responsive design  
-- ✨ Smooth hover effects & animations  
-- 🧭 Simple and easy navigation  
+⭐ Testimonials – Customer reviews and feedback
 
----
+🛎️ Services – What the dhaba offers
 
-## 🛠️ Built With
+📅 Booking Page – Table reservation interface
 
-- **HTML5** – Website structure  
-- **CSS3** – Styling and layout  
-- **JavaScript** – Interactivity  
+📞 Contact Page – Easy way for customers to reach out
 
----
+📱 Responsive Design – Works on desktop, tablet, and mobile devices
 
-## 📂 Project Structure
+🛠️ Technologies Used
 
-├── index.html
-├── style.css
-├── script.js
-├── images
-└── README.md
+HTML5 – Structure of the website
+
+CSS3 / SCSS – Styling and layout
+
+JavaScript – Interactivity and dynamic behavior
+
+Libraries – External libraries used for enhanced UI (stored in lib/)
+
+PAMMI-DA-DHABA/
+│
+├── css/            # Compiled CSS files
+├── scss/           # SCSS source files
+├── js/             # JavaScript files
+├── img/            # Images and assets
+├── lib/            # External libraries
+│
+├── index.html      # Home page
+├── about.html      # About page
+├── menu.html       # Menu page
+├── service.html    # Services page
+├── booking.html    # Booking page
+├── team.html       # Team page
+├── testimonial.html# Testimonials page
+├── contact.html    # Contact page
+├── README.md       # Project documentation
+
+
+🚀 How to Run the Project
+
+Clone the repository:
+
+git clone https://github.com/your-username/pammi-da-dhaba.git
+
+
+Open the project folder
+
+Run the website by opening index.html in your browser
+
+🎯 Purpose of the Project
+
+Practice frontend web development skills
+
+Create a real-world restaurant website
+
+Improve layout, responsiveness, and UI design
+
+Build a strong beginner-friendly portfolio project
+
+📌 Future Improvements
+
+Online food ordering system
+
+Backend integration for bookings
+
+Admin dashboard
+
+SEO optimization
+
+Performance enhancements
+
+👨‍💻 Author
+
+Aman Maurya
+GitHub: amanmaurya1313
+
+📄 License
+
+This project is for educational and personal use.
+Feel free to modify and improve it.
