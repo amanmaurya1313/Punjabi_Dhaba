@@ -6,11 +6,9 @@ This project is built using HTML, CSS, JavaScript, and SCSS, focusing on clean d
 
 ---
 
----
-
 ## Screenshots
 
-![Desktop View](screenshots/a.png)
+![Desktop View](a.png)
 
 ---
 
